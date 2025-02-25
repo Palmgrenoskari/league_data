@@ -4,4 +4,4 @@
 *.sqlite3
 
 .vscode
-*.ipynb
+.env
