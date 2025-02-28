@@ -1,5 +1,7 @@
 # league_data
-Figuring out how to extract all the necessary data for my league analytics page from League of legends API.
+Figuring out how to extract all the necessary data for my League Analytics App from League of legends API.
+
+The App: [League_Site(GitHub)](https://github.com/Palmgrenoskari/league_site)
 
 **Update: The current API call limit of 100 requests / 2 min is too small for getting reasonable aggregate data from match histories.**
 
